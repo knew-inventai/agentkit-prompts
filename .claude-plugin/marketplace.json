@@ -1,0 +1,8 @@
+{
+  "name": "agentkit-prompts",
+  "owner": {
+    "name": "AgentKit"
+  },
+  "description": "Inventai AI Prompt 集合",
+  "plugins": []
+}

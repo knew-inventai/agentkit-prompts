@@ -1,0 +1,12 @@
+{
+  "name": "karpathy-coding-guide",
+  "version": "1.0.0",
+  "description": "Andrej Karpathy 整理的 AI 編碼行為準則，減少 LLM 常見錯誤：先思考再實作、最小化改動、目標驅動執行",
+  "author": { "name": "knew-inventai", "email": "knew@chtinventai.com" },
+  "license": "MIT",
+  "_agentkit": {
+    "type": "prompt",
+    "tags": ["coding", "best-practices", "karpathy", "guidelines"],
+    "compatible": ["claude", "openai", "gemini"]
+  }
+}
