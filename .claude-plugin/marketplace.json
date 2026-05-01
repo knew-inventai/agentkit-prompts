@@ -4,5 +4,12 @@
     "name": "AgentKit"
   },
   "description": "Inventai AI Prompt 集合",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "karpathy-coding-guide",
+      "source": "./karpathy-coding-guide",
+      "description": "Andrej Karpathy 整理的 AI 編碼行為準則，減少 LLM 常見錯誤：先思考再實作、最小化改動、目標驅動執行",
+      "version": "1.0.0"
+    }
+  ]
 }
